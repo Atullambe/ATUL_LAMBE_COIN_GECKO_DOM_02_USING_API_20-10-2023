@@ -1,0 +1,32 @@
+body {
+   
+    text-align: center;
+    margin: 20px;
+    box-sizing: border-box;
+   
+  }
+  .container{
+    height:100vh;
+    /* background-color: #1A1A1C; */
+  }
+  #userInfo{
+    color:#fff;
+  }
+table{
+    height:30rem;
+    width:40rem;
+    background-color: black;
+}
+table th{
+    color:white;
+}
+  table td{
+    border-bottom: solid 2px rgb(243, 237, 237);
+    color:#fff;
+  }
+  .positive {
+    color: green;
+  }
+  .negative {
+    color: red;
+  }
